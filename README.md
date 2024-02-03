@@ -1,8 +1,7 @@
-# Extrator de Conteúdo e Gerador de Infográficos (Tabajara)
+# InfogrAIphify 
+<sub><sup>(former Extrator de Conteúdo e Gerador de Infográficos (Tabajara)) </sup></sub>
 
 Este é um script em Python que extrai o conteúdo de texto de uma URL fornecida, utiliza a API da OpenAI para gerar uma descrição visual para um infográfico com base nesse conteúdo, e, em seguida, utiliza a API do DALL-E para gerar uma imagem correspondente à descrição visual. 
-
-Por enquanto é uma versão 0.1 - funciona e não mata ninguém, mas use por conta e risco
 
 ### Como Funciona
 
@@ -12,7 +11,7 @@ O script extrai o conteúdo de texto de uma URL fornecida. Por enquanto, o conte
 
 Clone este repositório:
 
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/phalkmin/InfogrAIphify.git
 
 Instale as dependências:
 
